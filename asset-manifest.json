@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/textutle-React/static/css/main.3f63f1d8.css",
+    "main.js": "/textutle-React/static/js/main.47fb65da.js",
+    "static/js/787.28cb0dcd.chunk.js": "/textutle-React/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/textutle-React/index.html",
+    "main.3f63f1d8.css.map": "/textutle-React/static/css/main.3f63f1d8.css.map",
+    "main.47fb65da.js.map": "/textutle-React/static/js/main.47fb65da.js.map",
+    "787.28cb0dcd.chunk.js.map": "/textutle-React/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3f63f1d8.css",
+    "static/js/main.47fb65da.js"
+  ]
+}
